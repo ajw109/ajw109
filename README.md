@@ -1,6 +1,6 @@
 # Hey, I'm AJ 👋
 
-I’m a passionate comp sci major on a journey to master web development and software engineering. I love building things that are useful and accessible, and I'm excited to share my progress!
+I’m a passionate comp sci major exploring web dev and security. I love building things that are useful and accessible, and I'm excited to share my progress!
 
 🚀 About Me
 
