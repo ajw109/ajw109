@@ -1,13 +1,7 @@
-# Hey, I'm AJ 👋
+# Hey 👋
 
-I’m a passionate comp sci major exploring web dev and security. I love building things that are useful and accessible, and I'm excited to share my progress!
-
-🚀 About Me
-
-    🌱 Currently learning: JavaScript
-    
-    🔧 My projects are available at https://github.com/ajw109?tab=repositories
+My name is AJ and I'm a 2nd year comp sci major at Skidmore College!
     
     🚀 Looking to collaborate on cool open-source projects!
 
-    📫 Reach me @ awoods109@me.com
+    📫 How to reach me: awoods109@me.com
